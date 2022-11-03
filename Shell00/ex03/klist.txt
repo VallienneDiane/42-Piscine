@@ -1,0 +1,6 @@
+Credentials cache: API:77AAD5BD-C4A1-449E-8283-D28827360152
+        Principal: dvallien@42LYON.FR
+
+  Issued                Expires               Principal
+Sep  1 07:54:31 2021  Sep  2 07:54:31 2021  krbtgt/42LYON.FR@42LYON.FR
+Sep  1 07:54:33 2021  Sep  2 07:54:31 2021  HTTP/san-ssd.42lyon.fr@42LYON.FR
